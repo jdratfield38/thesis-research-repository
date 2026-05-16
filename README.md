@@ -27,4 +27,4 @@ cleaning, statistical analysis, and figure generation.
 Thesis Link is forthcoming. 
 
 ## Citation
-DOI is forthcoming. 
+https://doi.org/10.5281/zenodo.20241702
